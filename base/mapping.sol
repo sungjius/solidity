@@ -1,3 +1,5 @@
+pragma solidity > 0.4.0;
+
 
 mapping( address => int256 ) public users;
 
