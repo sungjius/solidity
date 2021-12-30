@@ -1,4 +1,5 @@
-uint256 
+pragma solidity > 0.4.0;
+
 
 block.timestamp;
 
